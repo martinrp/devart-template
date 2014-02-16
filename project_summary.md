@@ -2,32 +2,28 @@
 Insert the name of your project
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- Martin Pratt - https://github.com/martinrp
+- Serji Perez
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+The transient nature of street art is part of what makes it so powerful, you appreciate it because it is often unexpected, a may not be there when you return. We believe the power of digital art comes in it’s ability to expand on this, to be more than just the product of the artist, but also that of the audience who are engaging with it.
 
-## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
+Using physical sensors, in this instance a Kinect camera, combined with code our DevArt project will seek to use the audience as an active part of the installation, it only coming alive when then engage with the installation and each other.
 
-[Example Link](http://www.google.com "Example Link")
+###Construction
+The installation will consist of the following components, a rear projected screen, a Kinect sensor, a laptop running a DART application, a sound system (either wireless headphones or a speaker), and a Leap Motion controller.
 
-## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
-```
-function test() {
-  console.log("Printing a test");
-}
-```
-## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
+The projected screen will be located approximately 7-8 feet from the ground, with the Kinect sensor mounted in the centre of the projected screen. This will be run from a laptop running a local DART application. Moving forward this will be attached to a Leap Motion controller.
 
-[Example Link](http://www.google.com "Example Link")
+
+## Libraries / Tools
+
+- [DART]("https://www.dartlang.org")
+- Microsoft Kinect sensor
+- [StageXL API]("http://www.stagexl.org/")
+- [Kinect JavaScript library]("http://msdn.microsoft.com/en-us/library/dn435669.aspx")
+- [dart:js library]("https://www.dartlang.org/articles/js-dart-interop")
 
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
-
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
