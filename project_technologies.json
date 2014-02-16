@@ -1,16 +1,19 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "DART",
+            "StageXL",
+            "Kinect JS API"
         ],
         "platforms": [
-            "insert platforms"
+            "HTML5/CSS/JS"
         ],
         "toolkits": [
-            "insert toolkits"
+            ""
         ]
     },
     "themes": [
-        "insert themes"
+        "Kinect",
+        "Interactive"
     ]
 }
