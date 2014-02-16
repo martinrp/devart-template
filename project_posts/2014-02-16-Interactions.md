@@ -1,4 +1,4 @@
-#The interactions
+<h2>The interactions</h2>
 The installation is about observing the interactions between each of the elements of the piece to create a dynamically evolving work that rewards engagement and play.
 
 ##Interaction with the audience
