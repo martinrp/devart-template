@@ -6,10 +6,18 @@
             "Kinect JS API"
         ],
         "platforms": [
-            "HTML5/CSS/JS"
+            "HTML5",
+            "OSX",
+            "iOS",
+            "Windows",
+            "Android"
         ],
         "toolkits": [
-            ""
+            "kinect",
+            "dart",
+            "leap",
+            "webgl"
+            
         ]
     },
     "themes": [
