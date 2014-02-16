@@ -9,7 +9,7 @@ The transient nature of street art is part of what makes it so powerful, you app
 
 Using physical sensors, in this instance a Kinect camera, combined with code our DevArt project will seek to use the audience as an active part of the installation, it only coming alive when then engage with the installation and each other.
 
-##Construction
+## Construction
 The installation will consist of the following components, a rear projected screen, a Kinect sensor, a laptop running a DART application, a sound system (either wireless headphones or a speaker), and a Leap Motion controller.
 
 The projected screen will be located approximately 7-8 feet from the ground, with the Kinect sensor mounted in the centre of the projected screen. This will be run from a laptop running a local DART application. Moving forward this will be attached to a Leap Motion controller.
